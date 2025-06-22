@@ -1,6 +1,6 @@
 # Artist-Inator: Text-based, Gloss-aware Non-photorealistic Stylization
 
-### [![Project page](https://img.shields.io/badge/-Project%20page-blue)](https://graphics.unizar.es/projects/artist-inator_2025/) | [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://graphics.unizar.es/projects/artist-inator_2025/sources/2025_APP_MaterialsNPR_EGSR_CRC.pdf)
+### [![Project page](https://img.shields.io/badge/-Project%20page-blue)](https://graphics.unizar.es/projects/artist-inator_2025/) | [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://graphics.unizar.es/papers/Subias2025ArtistInator.pdf)
 
 The official **Gradio**  implementation of [**Artist-Inator: Text-based, Gloss-aware Non-photorealistic Stylization**](https://graphics.unizar.es/projects/artist-inator_2025/). 
 
