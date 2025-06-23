@@ -67,7 +67,17 @@ pip install -r requirements.txt
 
 ## Cite
 
-COMING SOON
+```
+@article{10.1111:cgf.70182,
+journal = {Computer Graphics Forum},
+title = {{Artist-Inator: Text-based, Gloss-aware Non-photorealistic Stylization}},
+author = {Subias, Jose Daniel and Daniel-Soriano, Saúl and Gutierrez, Diego and Serrano, Ana},
+year = {2025},
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+ISSN = {1467-8659},
+DOI = {10.1111/cgf.70182}
+}
+```
 
 ## Acknowledgements
 
